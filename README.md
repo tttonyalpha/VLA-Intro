@@ -1,5 +1,8 @@
 # ROS Meetup 2026 Vision-Language-Action (VLA) Workshop
 
+<img width="3038" height="1408" alt="prev" src="https://github.com/user-attachments/assets/770911d0-2d3e-4368-9554-f00a130c02aa" />
+
+
 This repository contains materials for a hands-on ROS Meetup 2026 workshop on **Vision-Language-Action (VLA) models**.
 
 VLA models connect **visual perception**, **language understanding**, and **robot actions** in a single system. In this workshop, we first discuss the core ideas behind VLA models and then move to practical tools for training and deploying them in robotics workflows.
