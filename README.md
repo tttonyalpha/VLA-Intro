@@ -29,7 +29,7 @@ In the first part, we cover the fundamentals of VLA models:
 
 ### Materials
 
-- [Presentation 1: Introduction to VLA Models]([PASTE_PRESENTATION_1_LINK_HERE](https://docs.google.com/presentation/d/1ulWZXXcL3qXQBPKhKuirijH677_3Eg9J/edit?usp=share_link&ouid=117545374379394505476&rtpof=true&sd=true))
+- [Presentation 1: Introduction to VLA Models](workshop_src/part_1_vla_intro.pdf)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cikH79MNhJz5UvSeYsD5kKGzTF8oID3f?usp=sharing)
 
 ### Topics covered
