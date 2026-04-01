@@ -55,10 +55,6 @@ We discuss:
 - how to use **LeRobot**
 - why **ROS2** can be useful in a LeRobot-based setup
 
-### Materials
-
-- [Presentation 2: LeRobot, Robots, and ROS2](PASTE_PRESENTATION_2_LINK_HERE)
-- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](PASTE_COLAB_2_LINK_HERE)
 
 ### Topics covered
 
