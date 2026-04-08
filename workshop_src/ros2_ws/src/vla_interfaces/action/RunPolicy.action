@@ -1,8 +1,0 @@
-string task_text
-float32 fps
----
-bool success
-string message
----
-int32 step
-string status
